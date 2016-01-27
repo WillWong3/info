@@ -5,7 +5,7 @@ bbs.spring.service
 bbs.spring.serviceimpl
 bbs.struts2.action
 
-ΚµΜεΐΰ£Ί
+ε®δ½“η±»
        User:
 Int userId
 String userName
