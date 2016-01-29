@@ -1,0 +1,18 @@
+bbs.hibernate.dao
+bbs.hibernate.daoimpl
+bbs.hibernate.domain
+bbs.spring.service
+bbs.spring.serviceimpl
+bbs.struts2.action
+
+ µÃÂ¿‡£∫
+       User:
+Int UId
+String UName
+String Nickname
+String UPassword
+date Ubithday
+int Uage
+String Ugender
+String Utype
+String UEmail
